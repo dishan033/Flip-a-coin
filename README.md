@@ -8,7 +8,7 @@ A simple and interactive coin flipping application built with vanilla HTML, CSS,
 
 ## 📸 Screenshot
 
-![Flip a Coin Screenshot](screenshot.png) <!-- Add your project screenshot -->
+![Flip a Coin Screenshot](image.png) <!-- Add your project screenshot -->
 
 ## 🛠️ Technologies Used
 
