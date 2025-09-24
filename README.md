@@ -4,11 +4,11 @@ A simple and interactive coin flipping application built with vanilla HTML, CSS,
 
 ## 🚀 Live Demo
 
-[View Live Project](dishan033.github.io/Flip-a-coin/) <!-- Replace with your actual project URL -->
+[View Live Project](https://dishan033.github.io/Flip-a-coin/)
 
 ## 📸 Screenshot
 
-![Flip a Coin Screenshot](image.png) <!-- Add your project screenshot -->
+![Flip a Coin Screenshot](image.png) 
 
 ## 🛠️ Technologies Used
 
